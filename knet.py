@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# https://www.exploit-db.com/exploits/24897
 import socket, sys
 from struct import pack
 
